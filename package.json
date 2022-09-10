@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@3d-dice/dice-box": "^1.0.5",
+    "@3d-dice/dice-ui":"^0.4.2",
     "@angular/animations": "^14.0.0",
     "@angular/common": "^14.0.0",
     "@angular/compiler": "^14.0.0",
