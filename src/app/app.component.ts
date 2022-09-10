@@ -1,6 +1,6 @@
 import { Component, OnInit, VERSION } from '@angular/core';
 import DiceBox from '@3d-dice/dice-box';
-import DisplayResults from '/src/displayResults';
+import DisplayResults from '@3d-dice/dice-ui/src/displayResults';
 import AdvancedRoller from '@3d-dice/dice-ui/src/advancedRoller';
 import BoxControls from '@3d-dice/dice-ui/src/boxControls';
 
