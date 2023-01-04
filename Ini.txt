@@ -1,0 +1,6 @@
+git checkout --orphan new_branch
+git add .
+git commit -m "Initial commit"
+git branch -D dev
+git branch -m mainNew
+git push -f origin mainNew
